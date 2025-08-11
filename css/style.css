@@ -140,3 +140,30 @@ ul li {
 .bio figure {
     flex: 1;
 }
+
+ul li {
+    font-weight: 400;
+}
+
+ul li.part {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+ul li.part ul {
+    margin-top: 20px;
+}
+
+ul li.cap {
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+ul li.cap ul {
+    margin-top: 20px;
+}
+
+a,
+button {
+    cursor: pointer;
+}
